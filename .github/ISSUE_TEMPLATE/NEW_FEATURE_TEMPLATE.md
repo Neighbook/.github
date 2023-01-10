@@ -1,11 +1,12 @@
 ---
 
-Nom : Requête de nouvelle fonctionnalité
-À propos : Suggérez une idée pour une nouvelle fonctionnalité concernant le projet 
-Titre : Requête de nouvelle fonctionnalité
-Étiquette : fonctionnalité
+name: Requête de nouvelle fonctionnalité
+about: Suggérez une idée pour une nouvelle fonctionnalité concernant le projet 
+title: Requête de nouvelle fonctionnalité
+labels: fonctionnalité
 
 ---
+
 Les ***issues*** sont rédigées en markdown. GitHub à écrit un bon résumer de comment se servir du
 markdown [ici](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
 

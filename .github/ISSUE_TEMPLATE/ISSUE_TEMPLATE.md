@@ -1,9 +1,9 @@
 ---
 
-Nom : Rapport d'Erreur 
-À propos : Reporter un bogue concernant le projet 
-Titre : Rapport d'erreur 
-Étiquette : bogue
+name: Rapport d'Erreur 
+about: Reporter un bogue concernant le projet 
+title: Rapport d'erreur 
+labels: bogue
 
 ---
 
